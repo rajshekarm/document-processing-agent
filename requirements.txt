@@ -1,3 +1,6 @@
 pytesseract
 langchain
+langchain-google-genai
 pillow
+dotenv
+python-dotenv
